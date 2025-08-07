@@ -34,13 +34,8 @@ npm run dev
 Make sure to create a `.env` file with the following environment variables:
 
 ```env
-PORT=3000
-DB_URL=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-JWT_EXPIRES_IN=90d
-EMAIL_USER=your_email
-EMAIL_PASS=your_email_password
-CLIENT_URL=http://localhost:3000
+MONGODB_URL= 
+JWT_KEY=   
 ```
 
 ## 📄 API Documentation
